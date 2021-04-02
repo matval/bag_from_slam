@@ -1,0 +1,3 @@
+/home/mateus/catkin_ws/src/bag_from_slam/outputs/from_slam_2021-02-08-16-19-35.bag
+/home/mateus/catkin_ws/src/bag_from_slam/outputs/from_slam_2021-03-30-00-08-01.bag
+/home/mateus/catkin_ws/src/bag_from_slam/outputs/from_slam_2020-09-14-18-01-31.bag
